@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1475657003 source:c:\users\dee\documents\cpp\multi_iii\list_child.cpp
+	"list_child.h"
+
+1475656674 c:\users\dee\documents\cpp\multi_iii\list_child.h
+	<iostream>
+
+1475658844 source:c:\users\dee\documents\cpp\multi_iii\list_parent.cpp
+	"list_parent.h"
+
+1475658805 c:\users\dee\documents\cpp\multi_iii\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1475658572 source:c:\users\dee\documents\cpp\multi_iii\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+
+1475658770 source:c:\users\dee\documents\cpp\multi_iii\list_relasi.cpp
+	"list_relasi.h"
+
+1475658888 c:\users\dee\documents\cpp\multi_iii\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1485554288 source:c:\users\andityaarifianto\documents\github\asd_multilist\multi_iii\list_child.cpp
+	"list_child.h"
+
+1485554288 c:\users\andityaarifianto\documents\github\asd_multilist\multi_iii\list_child.h
+	<iostream>
+
+1485554288 source:c:\users\andityaarifianto\documents\github\asd_multilist\multi_iii\list_parent.cpp
+	"list_parent.h"
+
+1485554288 c:\users\andityaarifianto\documents\github\asd_multilist\multi_iii\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1485554288 c:\users\andityaarifianto\documents\github\asd_multilist\multi_iii\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1485554288 source:c:\users\andityaarifianto\documents\github\asd_multilist\multi_iii\list_relasi.cpp
+	"list_relasi.h"
+
+1524742473 source:d:\asd_multilist-master\multi_iiib\list_child.cpp
+	"list_child.h"
+
+1524740115 d:\asd_multilist-master\multi_iiib\list_child.h
+	<iostream>
+
+1524741316 source:d:\asd_multilist-master\multi_iiib\list_parent.cpp
+	"list_parent.h"
+
+1524740115 d:\asd_multilist-master\multi_iiib\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1519612727 d:\asd_multilist-master\multi_iiib\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1524742076 source:d:\asd_multilist-master\multi_iiib\list_relasi.cpp
+	"list_relasi.h"
+
+1524742473 source:d:\asd_multilist-master\multi_iiib\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+
+1524884569 source:c:\users\novario\documents\file perkuliahan\std 2018\tubes std 2018\multi_iiib\list_child.cpp
+	"list_child.h"
+
+1524740115 c:\users\novario\documents\file perkuliahan\std 2018\tubes std 2018\multi_iiib\list_child.h
+	<iostream>
+
+1524883119 source:c:\users\novario\documents\file perkuliahan\std 2018\tubes std 2018\multi_iiib\list_parent.cpp
+	"list_parent.h"
+
+1524740115 c:\users\novario\documents\file perkuliahan\std 2018\tubes std 2018\multi_iiib\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1519612727 c:\users\novario\documents\file perkuliahan\std 2018\tubes std 2018\multi_iiib\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1524811934 source:c:\users\novario\documents\file perkuliahan\std 2018\tubes std 2018\multi_iiib\list_relasi.cpp
+	"list_relasi.h"
+
+1524884451 source:c:\users\novario\documents\file perkuliahan\std 2018\tubes std 2018\multi_iiib\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_child.h"
+	"list_parent.h"
+
+1524891268 source:c:\users\hp user\documents\college\semester 6\strukdat\multi_iiib\list_child.cpp
+	"list_child.h"
+
+1524740115 c:\users\hp user\documents\college\semester 6\strukdat\multi_iiib\list_child.h
+	<iostream>
+
+1524891780 source:c:\users\hp user\documents\college\semester 6\strukdat\multi_iiib\list_parent.cpp
+	"list_parent.h"
+
+1524740115 c:\users\hp user\documents\college\semester 6\strukdat\multi_iiib\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1519612727 c:\users\hp user\documents\college\semester 6\strukdat\multi_iiib\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1524891609 source:c:\users\hp user\documents\college\semester 6\strukdat\multi_iiib\list_relasi.cpp
+	"list_relasi.h"
+
+1524891341 source:c:\users\hp user\documents\college\semester 6\strukdat\multi_iiib\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_child.h"
+	"list_parent.h"
+
+1524925292 source:c:\users\novario\documents\tubes std 2018\multi_iiib\list_child.cpp
+	"list_child.h"
+
+1524910384 c:\users\novario\documents\tubes std 2018\multi_iiib\list_child.h
+	<iostream>
+
+1524924776 source:c:\users\novario\documents\tubes std 2018\multi_iiib\list_parent.cpp
+	"list_parent.h"
+
+1524912219 c:\users\novario\documents\tubes std 2018\multi_iiib\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1519612727 c:\users\novario\documents\tubes std 2018\multi_iiib\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1524910401 source:c:\users\novario\documents\tubes std 2018\multi_iiib\list_relasi.cpp
+	"list_relasi.h"
+
+1524925603 source:c:\users\novario\documents\tubes std 2018\multi_iiib\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_child.h"
+	"list_parent.h"
+
+1524925292 source:c:\users\hp user\documents\multi_iiib\list_child.cpp
+	"list_child.h"
+
+1524910384 c:\users\hp user\documents\multi_iiib\list_child.h
+	<iostream>
+
+1524924776 source:c:\users\hp user\documents\multi_iiib\list_parent.cpp
+	"list_parent.h"
+
+1524912219 c:\users\hp user\documents\multi_iiib\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1519612727 c:\users\hp user\documents\multi_iiib\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1524910401 source:c:\users\hp user\documents\multi_iiib\list_relasi.cpp
+	"list_relasi.h"
+
+1524925603 source:c:\users\hp user\documents\multi_iiib\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_child.h"
+	"list_parent.h"
+
